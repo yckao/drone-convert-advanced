@@ -100,3 +100,11 @@ In this case. The first `load` imports an extension named `steps_extension.star`
 ## Testing
 
 Currently we can _NOT_ use `drone plugins convert` to test this plugin because load from repo will failed.
+
+## TODO
+
+- [ ] Add Test Files
+- [ ] Improve Docs
+- [ ] Support Jsonnet
+- [ ] Support Typescript with Deno
+- [ ] Support Lua
