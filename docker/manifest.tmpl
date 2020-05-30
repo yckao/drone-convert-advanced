@@ -7,7 +7,7 @@ tags:
 {{/if}}
 manifests:
   -
-    image: yckao/drone-convert-advancedk:{{#if build.tag}}{{trimPrefix "v" build.tag}}-{{/if}}linux-amd64
+    image: yckao/drone-convert-advanced:{{#if build.tag}}{{trimPrefix "v" build.tag}}-{{/if}}linux-amd64
     platform:
       architecture: amd64
       os: linux
