@@ -1,4 +1,4 @@
-# drone-convert-starlark
+# drone-convert-advanced
 
 A conversion plugin that provides optional support for generating pipeline configuration files via Starlark scripting. _Please note this project requires Drone server version 1.4 or higher._
 
